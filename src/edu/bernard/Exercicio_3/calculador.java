@@ -1,4 +1,4 @@
-package edu.bernard.ex3;
+package edu.bernard.Exercicio_3;
 
 public class calculador {
     public static void main(String[] arg){

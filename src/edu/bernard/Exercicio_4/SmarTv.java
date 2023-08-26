@@ -1,4 +1,4 @@
-package edu.bernard.ex4;
+package edu.bernard.Exercicio_4;
 
 public class SmarTv {
         boolean ligada=false;

@@ -1,4 +1,4 @@
-package edu.bernard.ex4;
+package edu.bernard.Exercicio_4;
 
 import java.util.Scanner;
 

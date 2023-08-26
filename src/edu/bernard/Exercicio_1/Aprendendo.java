@@ -1,4 +1,4 @@
-package edu.bernard.ex1;
+package edu.bernard.Exercicio_1;
 public class Aprendendo {
         
 
