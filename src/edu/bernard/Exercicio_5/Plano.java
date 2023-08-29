@@ -23,5 +23,6 @@ public class Plano {
             default:
                 System.out.println("PLANO INEXISTENTE");
     }
+    scanner.close();
 }
 }
